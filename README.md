@@ -33,11 +33,7 @@ This project focuses on developing a **two-wheeled self-balancing robot** equipp
 - Executing precise pickup and drop-off tasks with a robotic arm
 
 ## 🎥 Final Demo
+  
+👉 **[Final Demo Video](https://youtu.be/Zx62de5Fl7A)**
 
-Watch our final simulation demo here:  
-👉 **[Final Demo Video](#)**
-
---- https://youtu.be/Zx62de5Fl7A
-
-Feel free to explore the code, understand the mechanics, and simulate your own delivery robot!
 
