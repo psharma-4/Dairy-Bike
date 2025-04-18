@@ -5,7 +5,11 @@ The **DairyBike** project is a simulation-based implementation of a self-balanci
 ## 🚲 Project Overview
 
 This project focuses on developing a **two-wheeled self-balancing robot** equipped with a **robotic arm** to perform pickups and deliveries. The bike navigates autonomously through the arena, handling delivery orders based on package priority—posing a challenging **path planning** and **control systems** problem.
-![DairyBike Simulation](reference/dairy_bike.jpg)
+
+
+<p align="center">
+  <img src="reference/dairy_bike.jpg" alt="DairyBike Simulation" width="700" height="500">
+</p>
 
 ### 🧠 Key Features
 
